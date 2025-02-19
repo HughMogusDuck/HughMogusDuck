@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning how to use GitHub
+- 🔭 I’m currently working on nothing really, just messing around
 <!--
 **HughMogusDuck/HughMogusDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
